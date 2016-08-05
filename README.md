@@ -10,3 +10,5 @@ All builds are compiled against stable releases of Cataclysm DDA for architectur
     Q: Can you compile me a newer version / nightly?
     A: Right now I only build releases marked "Stable". If a newer stable release comes from the Cataclysm devs, maybe; We'll see.
 
+    Q: Which one should I download?
+    A: It depends on the device you intend to run it on. For RaspberryPi V1 use Armv6, for RaspberryPi V2, V3, and CHIP use Armv7.
